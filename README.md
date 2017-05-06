@@ -17,7 +17,7 @@ and **live trading** is now possible using:
 To get started with PyAlgoTrade take a look at the [tutorial](http://gbeced.github.io/pyalgotrade/docs/v0.18/html/tutorial.html) and the [full documentation](http://gbeced.github.io/pyalgotrade/docs/v0.18/html/index.html).
 
 Main Features
--------------
+---------
 
  * Event driven.
  * Supports Market, Limit, Stop and StopLimit orders.
